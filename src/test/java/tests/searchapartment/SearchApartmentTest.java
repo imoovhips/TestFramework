@@ -13,6 +13,6 @@ public class SearchApartmentTest extends BaseTest {
         realtHomePage.enterCountRooms()
                 .clickToFind();
         realtListingPage.checkCountCards();
-
+        //123
     }
 }
